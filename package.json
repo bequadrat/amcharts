@@ -1,0 +1,21 @@
+{
+  "name": "amcharts",
+  "version": "3.14.5",
+  "description": "http://amcharts.com/",
+  "main": "amcharts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bequadrat/amcharts.git"
+  },
+  "author": {
+    "name": "amCharts"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bequadrat/amcharts/issues"
+  },
+  "homepage": "http://amcharts.com/"
+}
